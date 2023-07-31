@@ -3,7 +3,7 @@
 This repo contains projects from the Signals and Systems I project I've taken in school.
 
 Projects include:
-- Working with MATLAB, Visualization of Signals
-- System Properties and Convolution
-- Fourier Series Analysis using MATLAB
-- System Properties and Convolution (part 2)
+- Time-Domain Analysis of Discrete-Time Systems
+- Discrete-Time Fourier Series
+- Discrete Time Fourier Transform
+- Sampling and Discrete Fourier Transform
